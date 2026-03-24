@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt": {
+            "path": "cmd.exe",
+            "args": ["/k", "chcp 65001"]
+        },
+        "Git Bash": {
+            "path": "D:\\Git\\bin\\bash.exe", // 改成你自己的 Git 安装路径
+            "args": ["--login", "-i"]
+        }
+    }
+}

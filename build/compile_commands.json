@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/wwugu/Desktop/PID_CAR/build",
+  "command": "C:\\MinGW\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\my_pid_car.dir\\car.cpp.obj -c C:\\Users\\wwugu\\Desktop\\PID_CAR\\car.cpp",
+  "file": "C:/Users/wwugu/Desktop/PID_CAR/car.cpp",
+  "output": "CMakeFiles/my_pid_car.dir/car.cpp.obj"
+},
+{
+  "directory": "C:/Users/wwugu/Desktop/PID_CAR/build",
+  "command": "C:\\MinGW\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\my_pid_car.dir\\main.cpp.obj -c C:\\Users\\wwugu\\Desktop\\PID_CAR\\main.cpp",
+  "file": "C:/Users/wwugu/Desktop/PID_CAR/main.cpp",
+  "output": "CMakeFiles/my_pid_car.dir/main.cpp.obj"
+}
+]
